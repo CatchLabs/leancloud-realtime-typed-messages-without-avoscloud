@@ -1,0 +1,18 @@
+{
+  "name": "leancloud-realtime-typed-messages-without-avoscloud",
+  "version": "1.0.0-beta.2",
+  "description": "TypedMessages for LeanCloud Realtime",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CatchLabs/leancloud-realtime-typed-messages-without-avoscloud.git"
+  },
+  "keywords": [
+    "leancloud",
+    "realtime"
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "leancloud-realtime": "^3.0.0-beta.3"
+  }
+}
