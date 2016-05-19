@@ -16,7 +16,6 @@ export class LocationMessage extends TypedMessage {
   }
   /**
    * 获得 geoPoint 对象
-   * @return {AV.GeoPoint}
    */
   getLocation() {
     return this._geoPoint;
